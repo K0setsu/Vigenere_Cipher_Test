@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class Cipher {
     public static void main(String[] args) throws IOException {
         boolean again = true;
-        //String key = new String("BAAAAB");
+        
 
         Scanner keyChange = new Scanner(System.in);
         System.out.println("Do you want to change the key?");
